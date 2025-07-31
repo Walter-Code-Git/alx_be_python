@@ -1,5 +1,13 @@
 def display_menu():
     """
+    The menu provides the following options:
+    1. Add Item: Allows the user to add an item to the shopping list.
+    2. Remove Item: Allows the user to remove an item from the shopping list.
+    3. View List: Displays the current shopping list.
+    4. Exit: Exits the application.
+    This function does not take any parameters and does not return any value.
+    """
+    """
     Displays the main menu for the Shopping List Manager application.
 
     The menu includes the following options:
